@@ -179,3 +179,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines, scope, style
 - `CVE: None public` means no public CVE is known or the item is not primarily a CVE-tracked issue.
 - Legacy filenames are preserved as aliases where useful, but canonical pages are the shorter filenames.
 - The repository is a practical starting point, not a claim of exhaustive coverage.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
