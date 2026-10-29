@@ -10,6 +10,7 @@ This file is a starter list of public references used to ground the repository. 
 - OWASP GenAI Project, **November 17, 2024**: [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/)
 - TechCrunch, **March 31, 2026**: [Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/)
 - NIST National Vulnerability Database: [AI and LLM CVE search results](https://nvd.nist.gov/vuln/search)
+- Continuum-AI-Corp: [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)
 
 ## CVE-Heavy Areas Covered in This Repo
 
